@@ -1,8 +1,8 @@
 ## React Weather
 
-![preview](https://raw.githubusercontent.com/kkppyau/react-weather/master/img/preview.png)
-
 A simple weather checking app with responsive design. Find out the current location of the visitor by IP address and use it to check the weather.
+
+![preview](https://raw.githubusercontent.com/kkppyau/react-weather/master/img/preview.png)
 
 ### Frameworks/ Libraries Used
 
